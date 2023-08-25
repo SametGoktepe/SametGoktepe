@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SametGoktepe
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning WebArtc and WebSocket
+- 🌱 I’m currently learning Redis, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail:sametgoktepe74@gmail.com
 
