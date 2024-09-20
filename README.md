@@ -77,7 +77,5 @@ I'm a software developer who is passionate about making open-source more accessi
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=radical&no-bg=true&no-frame=true" alt="GitHub Achievements" />
 </p>
-
----
