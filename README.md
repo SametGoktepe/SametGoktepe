@@ -42,12 +42,12 @@ I'm a software developer who is passionate about making open-source more accessi
 [![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm)
 [![DBeaver](https://img.shields.io/badge/DBeaver-000000?logo=dbeaver&logoColor=white)](https://dbeaver.io)
 [![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
-[![Sequel Ace](https://img.shields.io/badge/Sequel_Ace-000000?logo=sequel-ace&logoColor=white)](https://sequel-ace.com/)
+[![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-000000?logo=azure-data-studio&logoColor=white)](https://azure.microsoft.com/en-u
 
 
 ### 💻 **Operating Systems**
 [![MacOS](https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white)](https://www.apple.com/macos)
-
+[![Windows](https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=white)](https://www.microsoft.com/windows
 ---
 
 ## 📫 How to Reach Me
@@ -82,3 +82,11 @@ I'm a software developer who is passionate about making open-source more accessi
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=radical&no-bg=true&no-frame=true" alt="GitHub Achievements" />
 </p>
+
+## Daily Dev
+<p align="center">
+  <a href="https://app.daily.dev/sametgoktepe">
+    <img src="https://img.shields.io/badge/Daily.Dev-000000?logo=daily.dev&logoColor=white" alt="Daily Dev Badge" />
+  </a>
+</p>
+
