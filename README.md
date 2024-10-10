@@ -41,6 +41,9 @@ I'm a software developer who is passionate about making open-source more accessi
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm)
 [![DBeaver](https://img.shields.io/badge/DBeaver-000000?logo=dbeaver&logoColor=white)](https://dbeaver.io)
+[![DataGrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
+[![Sequel Ace](https://img.shields.io/badge/Sequel_Ace-000000?logo=sequel-ace&logoColor=white)](https://sequel-ace.com/)
+
 
 ### 💻 **Operating Systems**
 [![MacOS](https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white)](https://www.apple.com/macos)
