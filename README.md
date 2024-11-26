@@ -82,4 +82,6 @@ I'm a software developer who is passionate about making open-source more accessi
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sametgoktepe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<a href="https://app.daily.dev/sametgoktepe"><img src="https://api.daily.dev/devcards/v2/5NziQ5ts7ILfMDDL5H2OI.png?type=wide&r=vm6" width="652" alt="Samet GOKTEPE's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/sametgoktepe"><img src="https://api.daily.dev/devcards/v2/5NziQ5ts7ILfMDDL5H2OI.png?type=wide&r=vm6" width="652" alt="Samet GOKTEPE's Dev Card"/></a>
+</div>
