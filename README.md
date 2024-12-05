@@ -79,9 +79,10 @@ I'm a software developer who is passionate about making open-source more accessi
 
 <div align="center">
   <h2 style="color: #333;">🚀 GitHub Streak</h2>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sametgoktepe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sametgoktepe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
+  <h2 style="color: #333;">Daily Dev</h2>
   <a href="https://app.daily.dev/sametgoktepe"><img src="https://api.daily.dev/devcards/v2/5NziQ5ts7ILfMDDL5H2OI.png?type=wide&r=vm6" width="652" alt="Samet GOKTEPE's Dev Card"/></a>
 </div>
