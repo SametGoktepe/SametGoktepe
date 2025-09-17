@@ -48,7 +48,7 @@ I'm a software developer who is passionate about making open-source more accessi
   </a>
 </p>
 
-📬 Messaging & Queues
+### 📬 Messaging & Queues
 <p align="left">
   <a href="https://www.rabbitmq.com">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -56,7 +56,7 @@ I'm a software developer who is passionate about making open-source more accessi
   <img src="https://img.shields.io/badge/BullMQ-000000" alt="BullMQ" />
 </p>
 
-🛠️ DevOps, Infra & CI/CD
+### 🛠️ DevOps, Infra & CI/CD
 <p align="left">
   <a href="https://www.docker.com">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
@@ -174,7 +174,7 @@ I'm a software developer who is passionate about making open-source more accessi
 
 ---
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sametgoktepe/">
@@ -190,18 +190,18 @@ I'm a software developer who is passionate about making open-source more accessi
 
 ---
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sametgoktepe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Samet's GitHub Stats" />
 </div>
 
-## 📊 My Top Languages
+### 📊 My Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametgoktepe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📰 Daily Dev
+### 📰 Daily Dev
 <div align="center">
   <a href="https://app.daily.dev/sametgoktepe"><img src="https://api.daily.dev/devcards/v2/5NziQ5ts7ILfMDDL5H2OI.png?type=wide&r=vm6" width="512" alt="Samet GOKTEPE's Dev Card"/></a>
 </div>
