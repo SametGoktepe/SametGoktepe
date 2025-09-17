@@ -157,6 +157,10 @@ I'm a software developer who is passionate about making open-source more accessi
   <a href="https://www.jetbrains.com/datagrip/">
     <img src="https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white" alt="DataGrip" />
   </a>
+  <a href="https://cursor.com">
+    <img src="https://img.shields.io/badge/Cursor-4E6BFE?logo=cursor&logoColor=white" alt="Cursor" />
+  </a>
+
 
 ### 💻 Operating Systems
 <p align="left">
