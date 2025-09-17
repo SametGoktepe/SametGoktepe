@@ -6,15 +6,8 @@ I'm a software developer who is passionate about making open-source more accessi
 
 ## 👀 What I'm Interested In
 
-### 🖥️ Backend Development
-<p align="left">
-  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" /></a>
-  <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" /></a>
-</p>
+### 🧠 Languages
+<p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS" /> </p>
 
 ### 🛠️ DevOps & CI/CD
 <p align="left">
