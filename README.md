@@ -114,13 +114,13 @@ const samet = {
 
 <br/><br/>
 
-<a href="https://github.com/sametgoktepe">
+<a href="https://github.com/SametGoktepe">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametgoktepe&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=22d3ee&sideNums=6b7280&dates=4b5563&border=1e293b" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/sametgoktepe">
+<a href="https://github.com/SametGoktepe">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sametgoktepe&bg_color=0d1117&color=22d3ee&line=164e63&point=22d3ee&area_color=164e63&area=true&hide_border=false&custom_title=%24%20contribution.graph%20--user%20sametgoktepe" width="95%"/>
 </a>
 
@@ -141,7 +141,7 @@ const samet = {
   <!-- <img src="https://github-trophies.vercel.app/?username=sametgoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/> -->
 </div>
 
-> ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa GitHub kullanıcı adının `sametgoktepe` olduğundan emin ol.*
+> ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa GitHub kullanıcı adının `SametGoktepe` olduğundan emin ol.*
 
 <br/>
 
@@ -153,9 +153,9 @@ const samet = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametgoktepe/sametgoktepe/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sametgoktepe/sametgoktepe/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sametgoktepe/sametgoktepe/output/github-snake-dark.svg" width="95%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametgoktepe/SametGoktepe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sametgoktepe/SametGoktepe/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SametGoktepe/SametGoktepe/output/github-snake-dark.svg" width="95%"/>
   </picture>
 </div>
 
