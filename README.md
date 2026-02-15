@@ -135,8 +135,13 @@ const samet = {
 ## `> ls achievements/`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
+  
+  <!-- Yukarıdaki çalışmazsa bu alternatifi kullan: -->
+  <!-- <img src="https://github-trophies.vercel.app/?username=sametgoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/> -->
 </div>
+
+> ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa GitHub kullanıcı adının `sametgoktepe` olduğundan emin ol.*
 
 <br/>
 
@@ -154,7 +159,7 @@ const samet = {
   </picture>
 </div>
 
-> *Snake animasyonunu aktifleştirmek için [snk GitHub Action](https://github.com/Platane/snk) kurulumu gerekir.*
+> *Bu animasyonun çalışması için repo'na `.github/workflows/snake.yml` dosyasını eklemelisin. (Aşağıda hazır dosya mevcut)*
 
 <br/>
 
