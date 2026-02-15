@@ -1,138 +1,150 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00ff41,50:0ff0fc,75:ff00ff,100:0d1117&height=300&section=header&text=SAMET%20GÖKTEPE&fontSize=80&fontColor=0ff0fc&animation=twinkling&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20BACKEND%20ARCHITECT%20%E2%80%A2%20SYSTEM%20DESIGNER%20%E2%80%A2%20CODE%20REBEL%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=16&descAlignY=55&descColor=00ff41" width="100%"/>
+<!-- CLEAN CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:164e63,100:0d1117&height=220&section=header&text=SAMET%20GÖKTEPE&fontSize=60&fontColor=22d3ee&animation=fadeIn&fontAlignY=35&desc=%2F%2F%20Backend%20Architect%20•%20System%20Designer%20•%20Cloud%20Engineer&descSize=14&descAlignY=55&descColor=6b7280" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E+INITIALIZING+SYSTEM...+%E2%96%88%E2%96%93%E2%96%92%E2%96%91;%3E+Welcome+to+the+Neon+Grid+%2F%2F+v4.2.0;%3E+Building+the+future%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=%24+system.init+--user+samet_goktepe;%24+status%3A+building+scalable+backends...;%24+mission%3A+architect+digital+ecosystems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- NEON SOCIAL BADGES -->
+<!-- MINIMAL NEON BADGES -->
 <a href="https://www.linkedin.com/in/sametgoktepe/">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_LinkedIn-0ff0fc?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=flat-square&logo=linkedin&logoColor=0d1117" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://x.com/samet74goktepe">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Twitter-ff00ff?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=0d1117" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-22d3ee?style=flat-square&logo=x&logoColor=0d1117" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sametgoktepe74@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Email-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-22d3ee?style=flat-square&logo=gmail&logoColor=0d1117" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sametgoktepe&style=for-the-badge&color=0ff0fc&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sametgoktepe&style=flat-square&color=164e63&label=visitors&labelColor=0d1117" />
 
 </div>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> SYSTEM.ABOUT_ME // v4.2`
+<!-- THIN DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+## `> whoami`
 
 ```js
-// ╔══════════════════════════════════════════════════════════════╗
-// ║                   ⚡ SAMET GÖKTEPE ⚡                       ║
-// ║              Backend Architect & Code Rebel                  ║
-// ╚══════════════════════════════════════════════════════════════╝
+// ═══════════════════════════════════════════════════
+//  [SAMET_GÖKTEPE] — Backend Architect
+// ═══════════════════════════════════════════════════
 
 const samet = {
-    pronouns: "he" | "him",
-    location: "Turkey 🇹🇷",
-    role: "Backend Developer & System Architect",
-    
-    currentMission: "Scalable Microservices & Cloud Architecture",
-    learning: ["Advanced System Design", "Rust 🦀"],
-    askMeAbout: ["Laravel", "NestJS", "Docker", "Database Optimization"],
-    
-    philosophy: "I don't just write code — I architect digital ecosystems.",
-    funFact: "I treat logs like a detective treats evidence 🕵️‍♂️",
-    
-    lifeGoal: () => "Build solutions that help communities thrive"
+    location:       "Turkey 🇹🇷",
+    role:           "Backend Developer & System Architect",
+    currentWork:    "Scalable Microservices & Cloud Architecture",
+    learning:       ["Advanced System Design", "Rust"],
+    expertise:      ["Laravel", "NestJS", "Docker", "DB Optimization"],
+    philosophy:     "I don't just write code — I architect ecosystems.",
+    funFact:        "I treat logs like a detective treats evidence."
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;`> LOADING_ARSENAL // TECH_STACK`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+## `> cat tech_stack.md`
 
 <div align="center">
 
-### ⚡ `BACKEND & ARCHITECTURE` — *[ CORE SYSTEMS ]*
+<br/>
+
+`// BACKEND & ARCHITECTURE — core systems`
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,typescript,python,go,rust&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
-### 🗄️ `DATA & MESSAGING` — *[ NEURAL NETWORKS ]*
+`// DATA & MESSAGING — data layer`
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,kafka,elasticsearch,graphql&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
-### ☁️ `DEVOPS & CLOUD` — *[ ORBITAL SYSTEMS ]*
+`// DEVOPS & CLOUD — infrastructure`
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,github,gitlab&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
-### 🖥️ `FRONTEND & MOBILE` — *[ INTERFACE LAYER ]*
+`// FRONTEND & MOBILE — interface layer`
 
 <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,flutter,html,css,js&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
-### ⚙️ `IDE & WORKFLOW` — *[ COMMAND CENTER ]*
+`// IDE & WORKFLOW — command center`
 
 <img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,git,bash&theme=dark&perline=6" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 📊 &nbsp;`> SYSTEM.METRICS // PERFORMANCE_DATA`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+## `> git log --stats`
 
 <div align="center">
 
 <a href="https://github.com/sametgoktepe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sametgoktepe&show_icons=true&theme=radical&bg_color=0d1117&title_color=0ff0fc&text_color=00ff41&icon_color=ff00ff&border_color=0ff0fc&ring_color=ff00ff&hide_border=false&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sametgoktepe&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=164e63&border_color=1e293b&ring_color=22d3ee&hide_border=false&count_private=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sametgoktepe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametgoktepe&layout=compact&theme=radical&bg_color=0d1117&title_color=0ff0fc&text_color=00ff41&border_color=0ff0fc&hide_border=false&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametgoktepe&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&border_color=1e293b&hide_border=false&langs_count=8" />
 </a>
 
 <br/><br/>
 
-<!-- STREAK STATS -->
 <a href="https://github.com/sametgoktepe">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametgoktepe&theme=radical&background=0d1117&ring=0ff0fc&fire=ff00ff&currStreakLabel=0ff0fc&sideLabels=00ff41&currStreakNum=0ff0fc&sideNums=ff00ff&dates=555555&border=0ff0fc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametgoktepe&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=22d3ee&sideNums=6b7280&dates=4b5563&border=1e293b" />
 </a>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/sametgoktepe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sametgoktepe&bg_color=0d1117&color=0ff0fc&line=ff00ff&point=00ff41&area_color=0ff0fc&area=true&hide_border=false&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sametgoktepe&bg_color=0d1117&color=22d3ee&line=164e63&point=22d3ee&area_color=164e63&area=true&hide_border=false&custom_title=%24%20contribution.graph%20--user%20sametgoktepe" width="95%"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🏆 &nbsp;`> ACHIEVEMENT.LOG // TROPHIES`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+## `> ls achievements/`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=radical&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10&title_color=0ff0fc" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🐍 &nbsp;`> CONTRIBUTION.MATRIX // SNAKE_PROTOCOL`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+## `> cat contributions.snake`
 
 <div align="center">
   <picture>
@@ -142,47 +154,41 @@ const samet = {
   </picture>
 </div>
 
-> 💡 *Snake animation'ı aktifleştirmek için repo'na bir GitHub Action eklemen gerekir. Detaylar için: [snk action](https://github.com/Platane/snk)*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## `> CONNECT.PROTOCOL // JACK_IN`
+> *Snake animasyonunu aktifleştirmek için [snk GitHub Action](https://github.com/Platane/snk) kurulumu gerekir.*
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The code is not just logic — it's a language of liberation."  ║
-║                                                                  ║
-║                          — SAMET GÖKTEPE                         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════╗
+ ║                                                       ║
+ ║   "First, solve the problem. Then, write the code."   ║
+ ║                                                       ║
+ ╚═══════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sametgoktepe/">
-  <img src="https://img.shields.io/badge/JACK_IN_→_LinkedIn-0ff0fc?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/connect_→_linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://x.com/samet74goktepe">
-  <img src="https://img.shields.io/badge/JACK_IN_→_Twitter-ff00ff?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/follow_→_twitter-0d1117?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:sametgoktepe74@gmail.com">
-  <img src="https://img.shields.io/badge/TRANSMIT_→_Email-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/send_→_email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&border=true" width="70%"/>
-
-<br/><br/>
-
-<!-- CYBERPUNK FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,25:0ff0fc,50:00ff41,75:0ff0fc,100:ff00ff&height=150&section=footer&text=⚡%20SYSTEM.EXIT(0)%20⚡&fontSize=24&fontColor=0d1117&animation=twinkling&fontAlignY=70" width="100%"/>
+<!-- CLEAN FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:164e63,100:0d1117&height=120&section=footer&fontSize=0" width="100%"/>
 
 </div>
