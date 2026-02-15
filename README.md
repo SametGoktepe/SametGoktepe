@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Email-22d3ee?style=flat-square&logo=gmail&logoColor=0d1117" />
 </a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sametgoktepe&style=flat-square&color=164e63&label=visitors&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=SametGoktepe&style=flat-square&color=164e63&label=visitors&labelColor=0d1117" />
 
 </div>
 
@@ -105,23 +105,23 @@ const samet = {
 <div align="center">
 
 <a href="https://github.com/sametgoktepe">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sametgoktepe&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=164e63&border_color=1e293b&ring_color=22d3ee&hide_border=false&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SametGoktepe&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=164e63&border_color=1e293b&ring_color=22d3ee&hide_border=false&count_private=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sametgoktepe">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametgoktepe&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&border_color=1e293b&hide_border=false&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametGoktepe&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&border_color=1e293b&hide_border=false&langs_count=8" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/SametGoktepe">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametgoktepe&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=22d3ee&sideNums=6b7280&dates=4b5563&border=1e293b" />
+<a href="https://github.com/sametgoktepe">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SametGoktepe&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9ca3af&currStreakNum=22d3ee&sideNums=6b7280&dates=4b5563&border=1e293b" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/SametGoktepe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sametgoktepe&bg_color=0d1117&color=22d3ee&line=164e63&point=22d3ee&area_color=164e63&area=true&hide_border=false&custom_title=%24%20contribution.graph%20--user%20sametgoktepe" width="95%"/>
+<a href="https://github.com/sametgoktepe">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametGoktepe&bg_color=0d1117&color=22d3ee&line=164e63&point=22d3ee&area_color=164e63&area=true&hide_border=false&custom_title=%24%20contribution.graph%20--user%20SametGoktepe" width="95%"/>
 </a>
 
 </div>
@@ -135,13 +135,13 @@ const samet = {
 ## `> ls achievements/`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sametgoktepe&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SametGoktepe&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
   
   <!-- Yukarıdaki çalışmazsa bu alternatifi kullan: -->
-  <!-- <img src="https://github-trophies.vercel.app/?username=sametgoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/> -->
+  <!-- <img src="https://github-trophies.vercel.app/?username=SametGoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/> -->
 </div>
 
-> ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa GitHub kullanıcı adının `SametGoktepe` olduğundan emin ol.*
+> ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa biraz bekle ve sayfayı yenile.*
 
 <br/>
 
@@ -153,8 +153,8 @@ const samet = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametgoktepe/SametGoktepe/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sametgoktepe/SametGoktepe/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SametGoktepe/SametGoktepe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SametGoktepe/SametGoktepe/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/SametGoktepe/SametGoktepe/output/github-snake-dark.svg" width="95%"/>
   </picture>
 </div>
