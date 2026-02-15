@@ -104,7 +104,7 @@ const samet = {
 
 <div align="center">
 
-<a href="https://github.com/sametgoktepe">
+<a href="https://github.com/SametGoktepe">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SametGoktepe&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=164e63&border_color=1e293b&ring_color=22d3ee&hide_border=false&count_private=true" />
 </a>
 &nbsp;&nbsp;
@@ -158,8 +158,6 @@ const samet = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/SametGoktepe/SametGoktepe/output/github-snake-dark.svg" width="95%"/>
   </picture>
 </div>
-
-> *Bu animasyonun çalışması için repo'na `.github/workflows/snake.yml` dosyasını eklemelisin. (Aşağıda hazır dosya mevcut)*
 
 <br/>
 
