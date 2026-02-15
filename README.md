@@ -104,13 +104,13 @@ const samet = {
 
 <div align="center">
 
-<a href="https://github.com/SametGoktepe">
+<!--<a href="https://github.com/SametGoktepe">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SametGoktepe&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=164e63&border_color=1e293b&ring_color=22d3ee&hide_border=false&count_private=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sametgoktepe">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametGoktepe&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&border_color=1e293b&hide_border=false&langs_count=8" />
-</a>
+</a>-->
 
 <br/><br/>
 
