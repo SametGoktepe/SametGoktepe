@@ -137,8 +137,7 @@ const samet = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SametGoktepe&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
   
-  <!-- Yukarıdaki çalışmazsa bu alternatifi kullan: -->
-  <!-- <img src="https://github-trophies.vercel.app/?username=SametGoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/> -->
+  <img src="https://github-trophies.vercel.app/?username=SametGoktepe&theme=onestar&no-bg=true&no-frame=true&column=7" width="95%"/>
 </div>
 
 > ⚠️ *Trophy servisi bazen yavaş yüklenebilir. Eğer görünmüyorsa biraz bekle ve sayfayı yenile.*
