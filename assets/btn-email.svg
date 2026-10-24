@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 22" width="260" height="44" shape-rendering="crispEdges" role="img">
+<title>Email</title>
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}</style>
+<rect x="0" y="0" width="130" height="22" fill="#2e3657"/>
+<rect x="0" y="0" width="130" height="2" fill="#46507a"/>
+<rect x="0" y="0" width="2" height="22" fill="#46507a"/>
+<rect x="0" y="20" width="130" height="2" fill="#232a4a"/>
+<rect x="128" y="0" width="2" height="22" fill="#232a4a"/>
+<g>
+<path fill="#f2e9d8" d="M10 7h10v1h-10zM59 7h7v1h-7zM84 7h2v1h-2zM88 7h3v1h-3zM10 8h2v1h-2zM18 8h2v1h-2zM60 8h2v1h-2zM65 8h1v1h-1zM89 8h2v1h-2zM10 9h1v1h-1zM12 9h1v1h-1zM17 9h1v1h-1zM19 9h1v1h-1zM60 9h2v1h-2zM63 9h1v1h-1zM67 9h2v1h-2zM71 9h2v1h-2zM76 9h4v1h-4zM83 9h3v1h-3zM89 9h2v1h-2zM10 10h1v1h-1zM13 10h1v1h-1zM16 10h1v1h-1zM19 10h1v1h-1zM60 10h4v1h-4zM67 10h7v1h-7zM79 10h2v1h-2zM84 10h2v1h-2zM89 10h2v1h-2zM10 11h1v1h-1zM14 11h2v1h-2zM19 11h1v1h-1zM60 11h2v1h-2zM63 11h1v1h-1zM67 11h7v1h-7zM76 11h5v1h-5zM84 11h2v1h-2zM89 11h2v1h-2zM10 12h1v1h-1zM19 12h1v1h-1zM60 12h2v1h-2zM65 12h1v1h-1zM67 12h2v1h-2zM70 12h1v1h-1zM72 12h2v1h-2zM75 12h2v1h-2zM79 12h2v1h-2zM84 12h2v1h-2zM89 12h2v1h-2zM10 13h10v1h-10zM59 13h7v1h-7zM67 13h2v1h-2zM72 13h2v1h-2zM76 13h3v1h-3zM80 13h2v1h-2zM83 13h4v1h-4zM88 13h4v1h-4z"/>
+</g>
+</svg>

@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *" # Her 6 saatte bir çalışır
   workflow_dispatch: # Manuel tetikleme
+  push:
+    branches: [main]
+    paths: [stats.py, pixel.py, pixelfont.py, .github/workflows/snake.yml]
 
 jobs:
   generate:
@@ -13,13 +16,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#35d0c0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#35d0c0
+
+      - name: Draw stats HUD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          STATS_LOGIN: ${{ github.repository_owner }}
+        run: python3 stats.py dist/stats.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
